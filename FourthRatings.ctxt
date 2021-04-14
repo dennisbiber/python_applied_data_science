@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=FourthRatings
+comment1.params=me\ r
+comment1.target=double\ dotProduct(Rater,\ Rater)
+comment2.params=raterId
+comment2.target=java.util.ArrayList\ getSimilarities(java.lang.String)
+comment3.params=raterID\ numSimilarRaters\ minimalRaters
+comment3.target=java.util.ArrayList\ getSimilarRatings(java.lang.String,\ int,\ int)
+comment4.params=raterID\ numSimilarRaters\ minimalRaters\ f
+comment4.target=java.util.ArrayList\ getSimilarRatingsByFilter(java.lang.String,\ int,\ int,\ Filter)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6
